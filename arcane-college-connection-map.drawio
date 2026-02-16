@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2026-02-16T00:00:00.000Z" agent="Claude" version="24.0.0" type="device">
+  <diagram id="arcane-college-map" name="Arcane College">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- ==================== -->
+        <!-- NODES / BUILDINGS    -->
+        <!-- ==================== -->
+
+        <!-- Gate Tower (entrance - green/olive) -->
+        <mxCell id="gate" value="Gate Tower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#2d5016;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Postmaster's Lodge (entrance - green/olive) -->
+        <mxCell id="postmaster" value="Postmaster's Lodge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#2d5016;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="170" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Porter's Lodge (entrance - green/olive) -->
+        <mxCell id="porter" value="Porter's Lodge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#2d5016;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Cloister (ceremonial - tan/khaki) -->
+        <mxCell id="cloister" value="Cloister" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e6c8;strokeColor=#c9a84c;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#6b5a2e;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="140" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Muniment Room (academic - lavender) -->
+        <mxCell id="muniment" value="Muniment Room" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dad2ee;strokeColor=#9673c4;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#3d2d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Library (academic - lavender) -->
+        <mxCell id="library" value="Library" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dad2ee;strokeColor=#9673c4;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#3d2d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="170" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Lecture Rooms (academic - lavender) -->
+        <mxCell id="lecture" value="Lecture Rooms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dad2ee;strokeColor=#9673c4;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#3d2d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Quad (grounds - light blue) -->
+        <mxCell id="fquad" value="Front Quad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;fontSize=14;fontStyle=1;fontColor=#1a3d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="160" height="55" as="geometry"/>
+        </mxCell>
+
+        <!-- Chapel (ceremonial - tan/khaki) -->
+        <mxCell id="chapel" value="Chapel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e6c8;strokeColor=#c9a84c;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#6b5a2e;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="140" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Great Hall (ceremonial - tan/khaki) -->
+        <mxCell id="hall" value="Great Hall" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5e6c8;strokeColor=#c9a84c;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#6b5a2e;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="140" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Senior Common Rooms (academic - lavender) -->
+        <mxCell id="scr" value="Senior Common Rooms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dad2ee;strokeColor=#9673c4;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#3d2d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="180" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Dining Hall (service - muted pink) -->
+        <mxCell id="dining" value="Dining Hall" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d4d4;strokeColor=#b07070;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c2d2d;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="170" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Kitchens (service - muted pink) -->
+        <mxCell id="kitchen" value="Kitchens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d4d4;strokeColor=#b07070;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c2d2d;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="150" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Student Rooms (residential - warm tan) -->
+        <mxCell id="student" value="Student Rooms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8dcc8;strokeColor=#a07050;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c3d20;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="170" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Back Quad (grounds - light blue) -->
+        <mxCell id="bquad" value="Back Quad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;fontSize=14;fontStyle=1;fontColor=#1a3d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="160" height="55" as="geometry"/>
+        </mxCell>
+
+        <!-- Bursary (service - muted pink) -->
+        <mxCell id="bursary" value="Bursary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d4d4;strokeColor=#b07070;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c2d2d;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="760" y="440" width="140" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Warden's Lodgings (residential - warm tan) -->
+        <mxCell id="warden" value="Warden's Lodgings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8dcc8;strokeColor=#a07050;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c3d20;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="970" y="440" width="170" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Fellows' Rooms (residential - warm tan) -->
+        <mxCell id="fellows" value="Fellows' Rooms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8dcc8;strokeColor=#a07050;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c3d20;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="760" y="560" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Junior Common Room (residential - warm tan) -->
+        <mxCell id="jcr" value="Junior Common Room" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8dcc8;strokeColor=#a07050;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c3d20;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="180" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- College Gardens (grounds - light blue) -->
+        <mxCell id="gardens" value="College Gardens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#1a3d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="530" y="700" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Cellar (service - muted pink) -->
+        <mxCell id="cellar" value="Cellar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0d4d4;strokeColor=#b07070;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#5c2d2d;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="150" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Fellows' Gardens (grounds - light blue) -->
+        <mxCell id="fgarden" value="Fellows' Gardens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#1a3d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="990" y="610" width="160" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Observatory Tower (academic - lavender) -->
+        <mxCell id="observatory" value="Observatory Tower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dad2ee;strokeColor=#9673c4;fontFamily=Georgia;fontSize=13;fontStyle=1;fontColor=#3d2d5c;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="610" width="170" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- ========================= -->
+        <!-- CONNECTIONS - MAJOR (thick solid) -->
+        <!-- ========================= -->
+
+        <!-- Gate Tower → Postmaster's Lodge -->
+        <mxCell id="c1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="gate" target="postmaster" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Gate Tower → Porter's Lodge -->
+        <mxCell id="c2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="gate" target="porter" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Postmaster's Lodge → Porter's Lodge -->
+        <mxCell id="c3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;" edge="1" source="postmaster" target="porter" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Porter's Lodge → Front Quad -->
+        <mxCell id="c4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="porter" target="fquad" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Quad → Library -->
+        <mxCell id="c5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="fquad" target="library" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Quad → Chapel -->
+        <mxCell id="c6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="fquad" target="chapel" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Quad → Great Hall -->
+        <mxCell id="c7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="fquad" target="hall" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Quad → Back Quad -->
+        <mxCell id="c8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="fquad" target="bquad" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Back Quad → Student Rooms -->
+        <mxCell id="c9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="bquad" target="student" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Back Quad → Bursary -->
+        <mxCell id="c10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="bquad" target="bursary" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Back Quad → Fellows' Rooms -->
+        <mxCell id="c11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="bquad" target="fellows" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Back Quad → Junior Common Room -->
+        <mxCell id="c12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="bquad" target="jcr" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Back Quad → College Gardens -->
+        <mxCell id="c13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=3;strokeColor=#555555;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="bquad" target="gardens" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- ========================= -->
+        <!-- CONNECTIONS - NORMAL       -->
+        <!-- ========================= -->
+
+        <!-- Postmaster's Lodge → Muniment Room -->
+        <mxCell id="c14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="postmaster" target="muniment" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Muniment Room → Lecture Rooms -->
+        <mxCell id="c15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="muniment" target="lecture" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Lecture Rooms → Library -->
+        <mxCell id="c16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="lecture" target="library" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Library → Dining Hall -->
+        <mxCell id="c17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="library" target="dining" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Lecture Rooms → Senior Common Rooms -->
+        <mxCell id="c18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="lecture" target="scr" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Senior Common Rooms → Dining Hall -->
+        <mxCell id="c19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="scr" target="dining" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Student Rooms → Kitchens -->
+        <mxCell id="c20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="student" target="kitchen" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Kitchens → Cellar -->
+        <mxCell id="c21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="kitchen" target="cellar" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Chapel → Cloister -->
+        <mxCell id="c22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="chapel" target="cloister" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Bursary → Warden's Lodgings -->
+        <mxCell id="c23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="bursary" target="warden" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Warden's Lodgings → Fellows' Rooms (below) -->
+        <mxCell id="c24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" source="warden" target="fellows" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Fellows' Rooms → Fellows' Gardens -->
+        <mxCell id="c25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="fellows" target="fgarden" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Fellows' Gardens → Observatory Tower -->
+        <mxCell id="c26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=2;strokeColor=#888888;" edge="1" source="fgarden" target="observatory" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- ========================= -->
+        <!-- CONNECTIONS - MINOR (dashed) -->
+        <!-- ========================= -->
+
+        <!-- Muniment Room → Library (diagonal in original) -->
+        <mxCell id="c27" style="edgeStyle=elbowEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;" edge="1" source="muniment" target="library" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Gate Tower → Cloister (outer path) -->
+        <mxCell id="c28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="gate" target="cloister" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Front Quad → Cloister (dotted in original) -->
+        <mxCell id="c29" style="edgeStyle=elbowEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;" edge="1" source="fquad" target="cloister" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Senior Common Rooms → Kitchens -->
+        <mxCell id="c30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="scr" target="kitchen" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Great Hall → Dining Hall (dotted diagonal in original) -->
+        <mxCell id="c31" style="rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;" edge="1" source="hall" target="dining" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Warden → Bursary (dotted) -->
+        <mxCell id="c32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;" edge="1" source="warden" target="bursary" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Junior Common Room → Fellows' Gardens (long dotted bottom) -->
+        <mxCell id="c33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;" edge="1" source="jcr" target="fgarden" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- College Gardens → Observatory (long dotted bottom) -->
+        <mxCell id="c34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeWidth=1.5;strokeColor=#aaaaaa;dashed=1;dashPattern=8 4;" edge="1" source="gardens" target="observatory" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
